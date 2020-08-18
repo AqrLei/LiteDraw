@@ -1,0 +1,3 @@
+include ':litedraw'
+include ':app'
+rootProject.name = "LiteDraw"
